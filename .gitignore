@@ -1,0 +1,12 @@
+*.sw*
+.RData
+.Rhistory
+bocgs-proc
+BOCG-*
+dir-*
+abl.rd
+abl_c.rd
+allbollinks.rd
+allbollinks_c.rd
+mongodb-creds.R
+*.log
